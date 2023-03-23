@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://boram-coco.github.io/sample/posts/VAE.html</loc>
-    <lastmod>2023-03-21T02:17:55.263Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.071Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/논문리뷰.html</loc>
+    <lastmod>2023-03-23T08:45:28.259Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/콰트로 블로그 만드는 법.html</loc>
-    <lastmod>2023-03-21T02:17:55.427Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.411Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/학회.html</loc>
-    <lastmod>2023-03-21T02:17:55.583Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.555Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/AI.html</loc>
-    <lastmod>2023-03-21T02:17:55.731Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.687Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/untitled.html</loc>
-    <lastmod>2023-03-21T02:17:55.859Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.819Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/학습 유형에 따른 데이터 분석 모델.html</loc>
-    <lastmod>2023-03-21T02:17:56.011Z</lastmod>
+    <lastmod>2023-03-23T08:45:28.971Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/about.html</loc>
-    <lastmod>2023-03-21T02:17:56.159Z</lastmod>
+    <lastmod>2023-03-23T08:45:29.119Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/index.html</loc>
-    <lastmod>2023-03-21T02:17:56.335Z</lastmod>
+    <lastmod>2023-03-23T08:45:29.307Z</lastmod>
   </url>
 </urlset>
