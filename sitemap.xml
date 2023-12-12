@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://boram-coco.github.io/sample/posts/VAE.html</loc>
-    <lastmod>2023-06-14T03:19:20.018Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/untitled.html</loc>
-    <lastmod>2023-06-14T03:19:20.158Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/9999.html</loc>
-    <lastmod>2023-06-14T03:19:20.354Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/2023_06_13_fin.html</loc>
-    <lastmod>2023-06-14T03:19:20.698Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/graph4-3.html</loc>
-    <lastmod>2023-06-14T03:19:20.894Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/학회.html</loc>
-    <lastmod>2023-06-14T03:19:21.046Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/ml with python 8.html</loc>
-    <lastmod>2023-06-14T03:19:21.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/coin prediction.html</loc>
-    <lastmod>2023-06-14T03:19:21.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/2023-06-13-fin.html</loc>
-    <lastmod>2023-06-14T03:19:21.690Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/posts/교수님.html</loc>
-    <lastmod>2023-06-14T03:19:21.942Z</lastmod>
+    <loc>https://boram-coco.github.io/sample/index.html</loc>
+    <lastmod>2023-05-19T09:53:12.607Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/posts/graph8(frac.html</loc>
-    <lastmod>2023-06-14T03:19:22.130Z</lastmod>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/[TS] HW05.html</loc>
+    <lastmod>2023-12-12T12:44:40.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/coin prediction.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/학회.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/2023_06_13_fin.html</loc>
+    <lastmod>2023-06-14T03:19:13.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/untitled.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/VAE.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/9999.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/graph4-3.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/ml with python 8.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/2023-06-13-fin.html</loc>
+    <lastmod>2023-06-13T10:48:58.251Z</lastmod>
+  </url>
+  <url>
+    <loc>https://boram-coco.github.io/sample/posts/교수님.html</loc>
+    <lastmod>2023-05-19T09:53:12.611Z</lastmod>
   </url>
   <url>
     <loc>https://boram-coco.github.io/sample/about.html</loc>
-    <lastmod>2023-06-14T03:19:22.278Z</lastmod>
-  </url>
-  <url>
-    <loc>https://boram-coco.github.io/sample/index.html</loc>
-    <lastmod>2023-06-14T03:19:22.478Z</lastmod>
+    <lastmod>2023-05-19T09:53:12.607Z</lastmod>
   </url>
 </urlset>
